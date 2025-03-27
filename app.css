@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  .home {
+    margin: 20px;
+  }
+  .quiz-link {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    background-color: lightblue;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+  }
+  .quiz {
+    margin: 20px;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  .selected {
+    background-color: yellow;
+  }
+  button {
+    padding: 10px;
+    margin-top: 10px;
+  }
+  .result {
+    margin: 20px;
+  }
+  
